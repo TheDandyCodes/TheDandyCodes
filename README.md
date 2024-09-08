@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working as a Data Scientist on Komorebi AI, a company specialized in offering integral solutions for diverse challenges, using Artificial Intelligence technology.<br>👨🏼‍💻 My purpose is to discover, learn and demonstrate that science, mathematics and artificial intelligence can help to solve many important problems.
 
 
