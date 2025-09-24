@@ -1,5 +1,5 @@
 
-<img width="1584" height="396" alt="Banner para Linkedin Licenciada Marketing Minimalista Beige" src="https://github.com/user-attachments/assets/f9240acf-9347-4873-bb7c-2aecc06bc0d3" />
+<img width="1584" height="396" alt="Banner para Linkedin Licenciada Marketing Minimalista Beige (1)" src="https://github.com/user-attachments/assets/e6a58738-7ccd-4498-b0b5-0170a8d1e6cb" />
 
 # About Me:
 🔭 I'm currently working as an AI Engineer on dataguru.cloud, a company specialized in offering integral solutions for diverse challenges, using Artificial Intelligence technology and cloud.<br>👨🏼‍💻 My purpose is to discover, learn and demonstrate that science, mathematics and artificial intelligence can help to solve many important problems.
