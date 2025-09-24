@@ -1,5 +1,5 @@
 # About Me:
-🔭 I'm currently working as a Data Scientist on Komorebi AI, a company specialized in offering integral solutions for diverse challenges, using Artificial Intelligence technology.<br>👨🏼‍💻 My purpose is to discover, learn and demonstrate that science, mathematics and artificial intelligence can help to solve many important problems.
+🔭 I'm currently working as an AI Engineer on dataguru.cloud, a company specialized in offering integral solutions for diverse challenges, using Artificial Intelligence technology and cloud.<br>👨🏼‍💻 My purpose is to discover, learn and demonstrate that science, mathematics and artificial intelligence can help to solve many important problems.
 
 
 ## 🌐 Socials:
